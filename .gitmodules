@@ -1,0 +1,3 @@
+[submodule "LDLibraries"]
+	path = LDLibraries
+	url = https://github.com/LazyDuchess/LDLibraries
